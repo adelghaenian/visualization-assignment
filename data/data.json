@@ -1,0 +1,147 @@
+{
+    "colors":[
+       "#B3B3B3",
+       "#2AE8D1",
+       "#233635",
+       "#526662",
+       "#0A92EA",
+       "#b3b3b3"
+    ],
+    "section_1_data":[
+       4,
+       66,
+       13,
+       2,
+       15
+    ],
+    "section_1_legends_data":[
+       [
+          "Critical impact",
+          "business may have to close permanently"
+       ],
+       [
+          "Signifacnt impact",
+          "critical threat to business that can be"
+       ],
+       [
+          "Limited impact",
+          "minimal threat to business"
+       ],
+       [
+          "No impact",
+          "no threat to business"
+       ],
+       [
+          "Positive impact",
+          "can be seen as an opportunity for business"
+       ]
+    ],
+    "section_2_data":[
+       84,
+       78,
+       67
+    ],
+    "section_3_data":[
+       68,
+       27,
+       3,
+       2
+    ],
+    "section_3_titles":[
+       "Significant decline",
+       "Marginal decline",
+       "No changes",
+       "Marginal increase"
+    ],
+    "section_3_colors":[
+       "#2AE8D1",
+       "#0a92ea",
+       "#233635",
+       "#526662",
+       "#0A92EA"
+    ],
+    "section_4_data":[
+       [
+          "Education",
+          60,
+          11
+       ],
+       [
+          "Retail",
+          71,
+          9
+       ],
+       [
+          "Business and pro service",
+          63,
+          10
+       ],
+       [
+          "Financial service",
+          49,
+          16
+       ],
+       [
+          "Government",
+          29,
+          32
+       ],
+       [
+          "Health care",
+          15,
+          54
+       ]
+    ],
+    "section_5_data":[
+       [
+          "Extended payment",
+          63
+       ],
+       [
+          "Financial support",
+          61
+       ],
+       [
+          "Advanced rebates",
+          47
+       ],
+       [
+          "Updates on supply chain issues",
+          45
+       ],
+       [
+          "Personalised guidance",
+          27
+       ]
+    ],
+    "section_6_data":[
+       6,
+       15,
+       22,
+       35,
+       16,
+       6
+    ],
+    "section_6_legends_data":[
+       [
+          "Less than a month"
+       ],
+       [
+          "1 - 3 months"
+       ],
+       [
+          "3 - 6 months"
+       ],
+       [
+          "6 - 12 months"
+       ],
+       [
+          "More than 12 months"
+       ]
+    ],
+    "section_7_data":[
+       96,
+       89,
+       85
+    ]
+ }

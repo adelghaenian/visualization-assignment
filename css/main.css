@@ -1,0 +1,135 @@
+html {
+    position: relative;
+    min-width: 1024px;
+    min-height: 768px;
+    height: 100%;
+}
+.bg{
+    background-image: url('../images/background.jpg');
+    background-size: contain;
+    height: 970px;
+    width: 1379px;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #000;
+}
+
+.row-height{
+    height: 33.33vh;
+}
+
+#QUE {
+    color: #40DFCB;
+}
+#CIRCA {
+    color: #fff;
+}
+#logo{
+    margin: 15px;
+    margin-left: 5px;
+}
+#covid-title{
+    color: white; font-weight: 300; margin-top: 30px;
+}
+#covid-subtitle{
+    color: #40DFCB; font-weight: 100; margin-top: 30px; font-size: 25px;
+}
+#covid-description{
+    font-weight: 100;
+    font-size: 19px;
+    color: gray;
+    margin-top: 30px;
+}
+#download-btn{
+    text-align: center;
+    margin-top: 30px;
+    height: 50px;
+    width: 250px;
+}
+#download-txt{
+    font-weight:600; margin-bottom: 0px; font-size: 15px; padding-top: 5px;
+}
+#link {
+    width: 300px;   
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    z-index: -1;
+
+}
+
+.title{
+    font-weight: 600;
+    font-size: 22px;
+    margin: 5px;
+    margin-bottom: 0px;
+    width: 320px;
+}
+.chart-title{
+    font-weight: 600;
+    font-size: 12px;
+    margin: 5px;
+    margin-bottom: 0px;
+}
+.chart-percent{
+    font-weight: 600;
+    font-size: 20px;
+}
+.subtitle{
+    font-weight: 100;
+    font-style: italic;
+    font-size: 15px;
+}
+.donut-chart-label{
+    font-weight: bold;
+    /* font-size: 21px; */
+    color: white;
+}
+.legend-title{
+    font-weight: bold;
+    font-size: small;
+}
+.legend-subtitle{
+    font-weight: bold;
+    font-size: 8px;
+}
+.item-with-percentage{
+    display: -webkit-inline-box;
+    font-size: 12px;
+    font-weight: bolder;
+    width: 160px;
+    height: 70px;
+}
+.subitem-with-percentage{
+    display: -webkit-inline-box;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.market-percent{
+    color:  #40DFCB;
+    font-size: xx-large;
+    padding: 10px 0;
+}
+.collaboration-percent{
+    color:  #40DFCB;
+    font-size: xx-large;
+    padding: 10px 0;
+}
+.market-sub-percent{
+    font-size: x-large;
+    margin-bottom: 0px;
+}
+.decline{
+    color:  #40DFCB;
+    font-size: small;
+    margin-top: 10px;
+}
+.sub-decline{
+    color:  #40DFCB;
+    font-size: x-small;
+    margin-top: 12px;
+}
+.linear{
+    display: -webkit-inline-box;
+}
